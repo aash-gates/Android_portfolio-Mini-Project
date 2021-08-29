@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+    var wheelOpt = supportsPassive ? { passive: false } : false;
     var wheelEvent = 'onwheel' in document.createElement('div') ? 'wheel' : 'mousewheel';
 
     if (wheelEvent && isEnabledForBrowser) {
