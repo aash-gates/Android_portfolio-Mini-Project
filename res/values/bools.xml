@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="SaveFormData">true</bool>
+    <bool name="ScrollBars">false</bool>
+    <bool name="TextSelection">false</bool>
+    <bool name="Zoom">false</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="allow_file_access">false</bool>
+    <bool name="allow_x_origin_from_file">true</bool>
+    <bool name="askGPS">false</bool>
+    <bool name="confexit">true</bool>
+    <bool name="defaultProgressBar">false</bool>
+    <bool name="desktopMode">false</bool>
+    <bool name="enableJsApi">true</bool>
+    <bool name="enableLiveTitle">false</bool>
+    <bool name="enableNavDrawer">false</bool>
+    <bool name="enablePullRefresh">false</bool>
+    <bool name="enableToolBar">true</bool>
+    <bool name="extlink">true</bool>
+    <bool name="flag_secure">false</bool>
+    <bool name="fullscr">false</bool>
+    <bool name="gestureZoom">true</bool>
+    <bool name="hideMobileUserAgent">true</bool>
+    <bool name="hideWebView">false</bool>
+    <bool name="isDebugMode">true</bool>
+    <bool name="showAboutInNav">false</bool>
+    <bool name="showHomeBtn">true</bool>
+    <bool name="usesCleartextTraffic">true</bool>
+</resources>
