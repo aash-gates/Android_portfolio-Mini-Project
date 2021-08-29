@@ -41,3 +41,4 @@
         fixedBackground   : true,
         excluded          : ''
     };
+    var options = defaultOptions;
