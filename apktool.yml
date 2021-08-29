@@ -7,3 +7,4 @@ doNotCompress:
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
+  renameManifestPackage: null
