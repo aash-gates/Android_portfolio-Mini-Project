@@ -13,3 +13,4 @@
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listItemLayout">@layout/select_dialog_item_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>
+        <item name="multiChoiceItemLayout">@layout/select_dialog_multichoice_material</item>
