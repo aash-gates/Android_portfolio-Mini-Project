@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+        });
     else if ('object' == typeof exports)
         module.exports = SmoothScroll;
     else
