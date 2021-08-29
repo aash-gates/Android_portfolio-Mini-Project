@@ -55,3 +55,4 @@
     var observer;
     var refreshSize;
     var deltaBuffer = [];
+    var deltaBufferTimer;
