@@ -56,3 +56,4 @@
     var refreshSize;
     var deltaBuffer = [];
     var deltaBufferTimer;
+    var isMac = /^Mac/.test(navigator.platform);
