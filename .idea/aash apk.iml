@@ -7,3 +7,4 @@
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../aash apk/gen" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../aash apk/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/../../aash apk/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../aash apk/assets" />
