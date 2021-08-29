@@ -81,4 +81,5 @@
     function init() {
 
         if (initDone || !document.body) return;
+
         initDone = true;
