@@ -3,3 +3,4 @@ apkFileName: Aash Gates_1_1.0.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
+- png
