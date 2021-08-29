@@ -29,3 +29,4 @@
         pulseScale       : 4,
         pulseNormalize   : 1,
 
+        // Acceleration
