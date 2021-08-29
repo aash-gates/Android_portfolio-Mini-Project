@@ -73,3 +73,4 @@
         if (options.keyboardSupport) {
             addEvent('keydown', keydown);
         }
+    }
