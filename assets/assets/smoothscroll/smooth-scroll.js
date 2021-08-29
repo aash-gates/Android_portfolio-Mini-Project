@@ -71,3 +71,4 @@
      */
     function initTest() {
         if (options.keyboardSupport) {
+        }
