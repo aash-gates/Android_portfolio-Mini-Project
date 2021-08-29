@@ -38,3 +38,4 @@
         arrowScroll       : 50,    // [px]
 
         // Other
+        fixedBackground   : true,
