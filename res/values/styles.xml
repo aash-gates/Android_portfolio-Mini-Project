@@ -7,3 +7,4 @@
     <style name="Animation.AppCompat.Tooltip" parent="@style/Base.Animation.AppCompat.Tooltip" />
     <style name="Animation.Design.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
         <item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
+    </style>
