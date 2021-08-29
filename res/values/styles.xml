@@ -27,3 +27,4 @@
     </style>
     <style name="Base.Animation.AppCompat.Tooltip" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/tooltip_enter</item>
+        <item name="android:windowExitAnimation">@anim/tooltip_exit</item>
