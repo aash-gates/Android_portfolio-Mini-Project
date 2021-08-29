@@ -50,3 +50,4 @@
     var isFrame = false;
     var direction = { x: 0, y: 0 };
     var initDone  = false;
+    var root = document.documentElement;
