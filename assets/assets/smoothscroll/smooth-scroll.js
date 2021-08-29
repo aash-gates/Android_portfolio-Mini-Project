@@ -54,3 +54,4 @@
     var activeElement;
     var observer;
     var refreshSize;
+    var deltaBuffer = [];
