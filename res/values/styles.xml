@@ -20,3 +20,4 @@
     <style name="Base.Animation.AppCompat.Dialog" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/abc_popup_enter</item>
         <item name="android:windowExitAnimation">@anim/abc_popup_exit</item>
+    <style name="Base.Animation.AppCompat.DropDownUp" parent="@android:style/Animation">
