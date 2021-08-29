@@ -5,3 +5,4 @@
       <configuration>
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../aash apk/gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../aash apk/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../aash apk/AndroidManifest.xml" />
