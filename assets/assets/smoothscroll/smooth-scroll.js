@@ -67,3 +67,4 @@
      ***********************************************/
 
     /**
+     * Tests if smooth scrolling is allowed. Shuts down everything if not.
