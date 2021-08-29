@@ -37,3 +37,4 @@
         keyboardSupport   : true,  // option
         arrowScroll       : 50,    // [px]
 
+        // Other
