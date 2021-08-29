@@ -26,3 +26,4 @@
         // Pulse (less tweakable)
         // ratio of "tail" to "acceleration"
         pulseAlgorithm   : true,
+        pulseScale       : 4,
