@@ -30,3 +30,4 @@
         pulseNormalize   : 1,
 
         // Acceleration
+        accelerationDelta : 50,  // 50
