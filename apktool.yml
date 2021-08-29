@@ -9,3 +9,4 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
+  minSdkVersion: '24'
