@@ -22,3 +22,4 @@
         frameRate        : 150, // [Hz]
         animationTime    : 400, // [ms]
         stepSize         : 100, // [px]
+
