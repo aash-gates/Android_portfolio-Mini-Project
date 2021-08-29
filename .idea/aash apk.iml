@@ -8,3 +8,4 @@
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../aash apk/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/../../aash apk/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../aash apk/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../aash apk/libs" />
