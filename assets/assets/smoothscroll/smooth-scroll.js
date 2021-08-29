@@ -87,6 +87,7 @@
         var body = document.body;
         var html = document.documentElement;
 
+
     /***********************************************
      * PUBLIC INTERFACE
      ***********************************************/
