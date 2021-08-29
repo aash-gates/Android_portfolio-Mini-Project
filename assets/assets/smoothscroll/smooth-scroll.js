@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+    if (wheelEvent && isEnabledForBrowser) {
         addEvent(wheelEvent, wheel, wheelOpt);
         addEvent('mousedown', mousedown);
         addEvent('load', init);
