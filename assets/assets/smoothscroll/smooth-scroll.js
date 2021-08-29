@@ -28,3 +28,4 @@
         pulseAlgorithm   : true,
         pulseScale       : 4,
         pulseNormalize   : 1,
+
