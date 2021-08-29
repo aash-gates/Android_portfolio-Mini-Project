@@ -6,3 +6,4 @@ doNotCompress:
 - png
 isFrameworkApk: false
 packageInfo:
+  forcedPackageId: '127'
