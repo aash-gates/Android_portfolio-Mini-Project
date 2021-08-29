@@ -9,3 +9,4 @@
         <option name="RES_FOLDER_RELATIVE_PATH" value="/../../aash apk/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../aash apk/assets" />
         <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../aash apk/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../aash apk/proguard_logs" />
