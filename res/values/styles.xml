@@ -4,3 +4,4 @@
     <style name="AlertDialog.AppCompat.Light" parent="@style/Base.AlertDialog.AppCompat.Light" />
     <style name="Animation.AppCompat.Dialog" parent="@style/Base.Animation.AppCompat.Dialog" />
     <style name="Animation.AppCompat.DropDownUp" parent="@style/Base.Animation.AppCompat.DropDownUp" />
+    <style name="Animation.AppCompat.Tooltip" parent="@style/Base.Animation.AppCompat.Tooltip" />
