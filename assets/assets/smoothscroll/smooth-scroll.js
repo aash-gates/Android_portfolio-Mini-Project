@@ -48,3 +48,4 @@
 // Other Variables
     var isExcluded = false;
     var isFrame = false;
+    var direction = { x: 0, y: 0 };
