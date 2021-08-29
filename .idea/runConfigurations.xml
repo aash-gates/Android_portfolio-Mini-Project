@@ -4,3 +4,4 @@
     <option name="ignoredProducers">
       <set>
         <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
+      </set>
