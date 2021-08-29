@@ -3,3 +3,4 @@
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../aash apk/gen" />
