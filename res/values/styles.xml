@@ -26,3 +26,4 @@
         <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
     </style>
     <style name="Base.Animation.AppCompat.Tooltip" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/tooltip_enter</item>
