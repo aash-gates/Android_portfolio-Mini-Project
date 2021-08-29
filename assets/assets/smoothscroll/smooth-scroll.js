@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+        if (options.pulseNormalize == 1) {
             options.pulseNormalize /= pulse_(1);
         }
         return pulse_(x);
