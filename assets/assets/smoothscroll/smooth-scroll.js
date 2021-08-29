@@ -40,3 +40,4 @@
         // Other
         fixedBackground   : true,
         excluded          : ''
+    };
