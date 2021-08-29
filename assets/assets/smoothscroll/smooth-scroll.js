@@ -45,3 +45,4 @@
     var options = defaultOptions;
 
 
+// Other Variables
