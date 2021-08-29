@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+
     function SmoothScroll(optionsToSet) {
         for (var key in optionsToSet)
             if (defaultOptions.hasOwnProperty(key))
