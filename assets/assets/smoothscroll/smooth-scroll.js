@@ -11,3 +11,4 @@
 // The only restriction is to not publish any
 // extension for browsers or native application
 // without getting a written permission first.
+//
