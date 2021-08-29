@@ -19,3 +19,4 @@
     var defaultOptions = {
 
         // Scrolling Core
+        frameRate        : 150, // [Hz]
