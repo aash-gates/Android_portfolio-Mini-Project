@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+        addEvent('mousedown', mousedown);
         addEvent('load', init);
     }
 
