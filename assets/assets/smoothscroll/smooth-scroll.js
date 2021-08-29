@@ -52,3 +52,4 @@
     var initDone  = false;
     var root = document.documentElement;
     var activeElement;
+    var observer;
