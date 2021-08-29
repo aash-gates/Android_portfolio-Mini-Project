@@ -11,3 +11,4 @@
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="@android:style/Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
+        <item name="listItemLayout">@layout/select_dialog_item_material</item>
