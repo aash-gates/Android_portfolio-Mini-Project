@@ -88,6 +88,7 @@
         var html = document.documentElement;
 
     /***********************************************
+    var isOldSafari = isSafari && (/Version\/8/i.test(userAgent) || /Version\/9/i.test(userAgent));
     var isEnabledForBrowser = (isChrome || isSafari || isIEWin7) && !isMobile;
 
     var supportsPassive = false;
