@@ -9,3 +9,4 @@
 //
 // Exception:
 // The only restriction is to not publish any
+// extension for browsers or native application
