@@ -47,3 +47,4 @@
 
 // Other Variables
     var isExcluded = false;
+    var isFrame = false;
