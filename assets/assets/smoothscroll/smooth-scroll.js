@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+        window.addEventListener("test", null, Object.defineProperty({}, 'passive', {
             get: function () {
                 supportsPassive = true;
             }
