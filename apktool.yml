@@ -4,3 +4,4 @@ compressionType: false
 doNotCompress:
 - resources.arsc
 - png
+isFrameworkApk: false
