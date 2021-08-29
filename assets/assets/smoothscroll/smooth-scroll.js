@@ -13,3 +13,4 @@
 // without getting a written permission first.
 //
 
+(function () {
