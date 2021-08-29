@@ -88,6 +88,7 @@
         var html = document.documentElement;
 
     /***********************************************
+    var userAgent = window.navigator.userAgent;
     var isEdge    = /Edge/.test(userAgent); // thank you MS
     var isChrome  = /chrome/i.test(userAgent) && !isEdge;
     var isSafari  = /safari/i.test(userAgent) && !isEdge;
