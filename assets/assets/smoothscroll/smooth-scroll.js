@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+    SmoothScroll.destroy = cleanup;
 
     if (window.SmoothScrollOptions) // async API
         SmoothScroll(window.SmoothScrollOptions);
