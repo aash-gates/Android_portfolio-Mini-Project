@@ -6,3 +6,4 @@
 //
 // You may use it in your theme if you credit me.
 // It is also free to use on any individual website.
+//
