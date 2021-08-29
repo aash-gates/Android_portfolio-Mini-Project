@@ -87,6 +87,7 @@
         var body = document.body;
         var html = document.documentElement;
         for (var key in optionsToSet)
+            if (defaultOptions.hasOwnProperty(key))
                 options[key] = optionsToSet[key];
     }
     SmoothScroll.destroy = cleanup;
