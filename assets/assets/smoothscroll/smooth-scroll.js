@@ -88,6 +88,7 @@
         var html = document.documentElement;
 
     /***********************************************
+    var isChrome  = /chrome/i.test(userAgent) && !isEdge;
     var isSafari  = /safari/i.test(userAgent) && !isEdge;
     var isMobile  = /mobile/i.test(userAgent);
     var isIEWin7  = /Windows NT 6.1/i.test(userAgent) && /rv:11/i.test(userAgent);
