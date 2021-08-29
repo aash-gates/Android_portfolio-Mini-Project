@@ -21,3 +21,4 @@ usesFramework:
 version: 2.4.1
 versionInfo:
   versionCode: '3'
+  versionName: 2.8
