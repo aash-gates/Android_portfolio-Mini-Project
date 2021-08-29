@@ -20,3 +20,4 @@
 
         // Scrolling Core
         frameRate        : 150, // [Hz]
+        animationTime    : 400, // [ms]
