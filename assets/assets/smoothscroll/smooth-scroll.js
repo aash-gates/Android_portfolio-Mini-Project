@@ -8,3 +8,4 @@
 // It is also free to use on any individual website.
 //
 // Exception:
+// The only restriction is to not publish any
