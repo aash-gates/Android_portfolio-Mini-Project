@@ -34,3 +34,4 @@
         accelerationMax   : 3,   // 3
 
         // Keyboard Settings
+        keyboardSupport   : true,  // option
