@@ -39,3 +39,4 @@
 
         // Other
         fixedBackground   : true,
+        excluded          : ''
