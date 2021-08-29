@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+        module.exports = SmoothScroll;
     else
         window.SmoothScroll = SmoothScroll;
 
