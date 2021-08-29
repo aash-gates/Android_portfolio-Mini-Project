@@ -77,4 +77,5 @@
 
     /**
      * Sets up scrolls array, determines if frames are involved.
+     */
     function init() {
