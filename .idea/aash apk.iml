@@ -14,3 +14,4 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
