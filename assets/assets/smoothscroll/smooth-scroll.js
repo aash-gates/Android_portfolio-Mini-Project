@@ -84,3 +84,4 @@
 
         initDone = true;
 
+        var html = document.documentElement;
