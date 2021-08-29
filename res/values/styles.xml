@@ -24,3 +24,4 @@
     <style name="Base.Animation.AppCompat.DropDownUp" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
         <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
+    </style>
