@@ -46,3 +46,4 @@
 
 
 // Other Variables
+    var isExcluded = false;
