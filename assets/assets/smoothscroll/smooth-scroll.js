@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+    var wheelEvent = 'onwheel' in document.createElement('div') ? 'wheel' : 'mousewheel';
 
     if (wheelEvent && isEnabledForBrowser) {
         addEvent(wheelEvent, wheel, wheelOpt);
