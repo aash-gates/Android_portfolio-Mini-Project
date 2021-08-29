@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+                options[key] = optionsToSet[key];
     }
     SmoothScroll.destroy = cleanup;
 
