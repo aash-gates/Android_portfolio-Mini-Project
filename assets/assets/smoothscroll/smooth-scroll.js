@@ -88,6 +88,7 @@
         var html = document.documentElement;
 
     /***********************************************
+    var isMobile  = /mobile/i.test(userAgent);
     var isIEWin7  = /Windows NT 6.1/i.test(userAgent) && /rv:11/i.test(userAgent);
     var isOldSafari = isSafari && (/Version\/8/i.test(userAgent) || /Version\/9/i.test(userAgent));
     var isEnabledForBrowser = (isChrome || isSafari || isIEWin7) && !isMobile;
