@@ -24,3 +24,4 @@
         stepSize         : 100, // [px]
 
         // Pulse (less tweakable)
+        // ratio of "tail" to "acceleration"
