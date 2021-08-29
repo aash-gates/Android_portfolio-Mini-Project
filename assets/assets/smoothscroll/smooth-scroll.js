@@ -58,3 +58,4 @@
     var deltaBufferTimer;
     var isMac = /^Mac/.test(navigator.platform);
 
+    var key = { left: 37, up: 38, right: 39, down: 40, spacebar: 32,
