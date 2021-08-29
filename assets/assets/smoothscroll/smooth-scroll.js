@@ -86,6 +86,7 @@
 
         var body = document.body;
         var html = document.documentElement;
+
     if (typeof define === 'function' && define.amd)
         define(function() {
             return SmoothScroll;
