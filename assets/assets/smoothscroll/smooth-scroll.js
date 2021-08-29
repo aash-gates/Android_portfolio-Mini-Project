@@ -87,6 +87,7 @@
         var body = document.body;
         var html = document.documentElement;
 
+    /***********************************************
     var isEnabledForBrowser = (isChrome || isSafari || isIEWin7) && !isMobile;
 
     var supportsPassive = false;
