@@ -88,6 +88,7 @@
         var html = document.documentElement;
 
     /***********************************************
+     * FIRST RUN
      ***********************************************/
 
     var userAgent = window.navigator.userAgent;
