@@ -13,3 +13,4 @@ sdkInfo:
   targetSdkVersion: '26'
 sharedLibrary: false
 sparseResources: false
+unknownFiles: {}
